@@ -1,4 +1,4 @@
-﻿<Application x:Class="Dashboard_Wpf_Localizer_Example.App"
+<Application x:Class="Dashboard_Wpf_Localizer_Example.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              StartupUri="MainWindow.xaml">
