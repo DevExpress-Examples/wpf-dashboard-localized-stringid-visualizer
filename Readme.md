@@ -19,4 +19,4 @@ This example demonstrates how to use the [DashboardLocalizer](https://docs.devex
 
 ## More Examples
 
--[Dashboard for WinForms - Localized String ID Visualizer](https://github.com/DevExpress-Examples/winforms-dashboard-localize-stringid-visualizer)
+- [Dashboard for WinForms - Localized String ID Visualizer](https://github.com/DevExpress-Examples/winforms-dashboard-localize-stringid-visualizer)
