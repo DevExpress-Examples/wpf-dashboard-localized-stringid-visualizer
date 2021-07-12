@@ -15,3 +15,8 @@ This example demonstrates how to use the [DashboardLocalizer](https://docs.devex
 
 * [Localize WPF Dashboard Control](https://docs.devexpress.com/Dashboard/400835/wpf-viewer/localization)
 * [Localize WPF Controls via Localizer Objects](https://docs.devexpress.com/WPF/7543)
+
+
+## More Examples
+
+-[Dashboard for WinForms - Localized String ID Visualizer](https://github.com/DevExpress-Examples/winforms-dashboard-localize-stringid-visualizer)
