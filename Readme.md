@@ -15,7 +15,7 @@ This example demonstrates how to use the [DashboardLocalizer](https://docs.devex
 * [MainWindow.xaml.cs](./CS/Dashboard_Wpf_Localizer_Example/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/Dashboard_Wpf_Localizer_Example/MainWindow.xaml.vb))
 * [MyDashboardLocalizer.cs](./CS/Dashboard_Wpf_Localizer_Example/MyDashboardLocalizer.cs) (VB: [MyDashboardLocalizer.vb](./VB/Dashboard_Wpf_Localizer_Example/MyDashboardLocalizer.vb))
 
-# Documentation
+## Documentation
 
 * [Localize WPF Dashboard Control](https://docs.devexpress.com/Dashboard/400835/wpf-viewer/localization)
 * [Localize WPF Controls via Localizer Objects](https://docs.devexpress.com/WPF/7543)
